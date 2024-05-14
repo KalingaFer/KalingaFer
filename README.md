@@ -22,7 +22,7 @@ As a AI engineer, I enjoy using my obsessive attention to detail, my unequivocal
 
 ## Connect:
 
-[<img align="left" alt="KalingaFernando | LinkedIn" width="22px" src="https://www.linkedin.com/in/kalinga-fernando-a5157911b/" />][linkedin]
+<img align="left" alt="KalingaFernando | LinkedIn" width="22px" src="https://www.linkedin.com/in/kalinga-fernando-a5157911b/" />[linkedin]
 
 </br>
 
