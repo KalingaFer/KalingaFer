@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=KalingaFer)
 
+I am a matching learning/ AI engineer and consulter. I love programming, writing, speaking and traveling.
+
+As a AI engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc5d2tyeGtjazFpaGRkZm1maThxMmRleWhoZWk0Z3IxaTRpMXBzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy-downsized-large.gif" />
 
 Here are some ideas to get you started:
