@@ -29,6 +29,6 @@ As a AI engineer, I enjoy using my obsessive attention to detail, my unequivocal
 
 ![Kalinga's github stats](https://github-readme-stats.vercel.app/api?username=KalingaFer&show_icons=true&hide_border=true&hide=contribs&theme=dark)
 
----
+</br>
 
-*"Tough times create strong men; Strong men create easy times; Easy times create weak men; Weak men create tough times. Many will not understand, but you have to rais warriors ~JOHN CHANEY~ "*
+*"Tough times create strong men; Strong men create easy times; Easy times create weak men; Weak men create tough times. Many will not understand, but you have to rais warriors **JOHN CHANEY** "*
