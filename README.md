@@ -14,9 +14,21 @@ As a AI engineer, I enjoy using my obsessive attention to detail, my unequivocal
 
 ## Interests-Obsessions-Goals-Dreams-Stuff
 
-- :shield: Fighting pseudoscience and misinformation.
+- :shield: A new way to process information using the laws of physics.
 - :microscope: Better education for everyone. Not everyone learns the same way.
-- :green_heart: Mental health awareness. I am ADHD.
+- :green_heart: Mental health awareness.
 - :dragon: Reading fantasy. Watching Science-Fiction.
 - :soccer: Liverpool FC. You'll never walk alone.
 
+## Connect:
+
+[<img align="left" alt="KalingaFernando | LinkedIn" width="22px" src="https://www.linkedin.com/in/kalinga-fernando-a5157911b/" />][linkedin]
+
+</br>
+
+
+![Kalinga's github stats](https://github-readme-stats.vercel.app/api?username=KalingaFer&show_icons=true&hide_border=true&hide=contribs&theme=dark)
+
+---
+
+*"Tough times create strong men; Strong men create easy times; Easy times create weak men; Weak men create tough times. Many will not understand, but you have to rais warriors ~JOHN CHANEY~ "*
