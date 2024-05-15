@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KalingaFer)
 
-I am a matching learning/ AI engineer and consulter. I love programming, writing, speaking and traveling.
+I am a machine learning/ AI engineer and consulter. I love programming, writing, speaking and traveling.
 
 As a AI engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
